@@ -1,1 +1,4 @@
 # odin-recipes
+This is my first project using HTML.  This website contains a Home Page with three additional pages that contain recipes for different foods that I eat regularly.  Each recipe includes an image, a description, the ingridients, and the steps to make the food item.  
+In this project I was able to practice using my Command-Line shell to create directories and files.  I also was able to manipulate their organization to suit the HTML website I was building effectively.  I was also able to use git commands within it to add, commit, and push my HTML to GitHub.
+Ultimately, this project allowed me to practice using the HTML commands I have learned up to this point to included, but not be limited to: boilerplate template, images with accompanying attributes, relative links, lists, list items, headings, and paragraphs.
